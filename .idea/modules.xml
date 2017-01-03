@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/qiitaF81/qiitaF81.iml" filepath="$PROJECT_DIR$/qiitaF81/qiitaF81.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scalaLesson.iml" filepath="$PROJECT_DIR$/scalaLesson.iml" />
+    </modules>
+  </component>
+</project>
