@@ -15,8 +15,8 @@ class FullNameInJapan() extends FullName {
   override def get(firstName: String, lastName: String): String = lastName + " " + firstName
 }
 
-val user1 = new User(1, "太郎", "山田", new FullNameInJapan)
-println(user1.getFullName())
-
-val user2 = new User(2, "Taro", "Yamada")
-println(user2.getFullName())
+//val user1 = new User(1, "太郎", "山田", new FullNameInJapan)
+//println(user1.getFullName())
+//
+//val user2 = new User(2, "Taro", "Yamada")
+//println(user2.getFullName())
