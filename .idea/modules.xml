@@ -3,7 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/qiitaF81/qiitaF81.iml" filepath="$PROJECT_DIR$/qiitaF81/qiitaF81.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qiitaF81/.idea/modules/root.iml" filepath="$PROJECT_DIR$/qiitaF81/.idea/modules/root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qiitaF81/.idea/modules/root-build.iml" filepath="$PROJECT_DIR$/qiitaF81/.idea/modules/root-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/scalaLesson.iml" filepath="$PROJECT_DIR$/scalaLesson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scalalesson.iml" filepath="$PROJECT_DIR$/.idea/modules/scalalesson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scalalesson-build.iml" filepath="$PROJECT_DIR$/.idea/modules/scalalesson-build.iml" />
     </modules>
   </component>
 </project>

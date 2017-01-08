@@ -1,3 +1,5 @@
+package main.scala
+
 /**
   * Created by morikawakaori on 2017/01/03.
   */
@@ -15,8 +17,8 @@ class FullNameInJapan() extends FullName {
   override def get(firstName: String, lastName: String): String = lastName + " " + firstName
 }
 
-//val user1 = new User(1, "太郎", "山田", new FullNameInJapan)
+//val user1 = new main.scala.User(1, "太郎", "山田", new main.scala.FullNameInJapan)
 //println(user1.getFullName())
 //
-//val user2 = new User(2, "Taro", "Yamada")
+//val user2 = new main.scala.User(2, "Taro", "Yamada")
 //println(user2.getFullName())

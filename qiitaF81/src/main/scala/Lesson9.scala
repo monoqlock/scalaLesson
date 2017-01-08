@@ -1,3 +1,5 @@
+package main.scala
+
 /**
   * Created by a13180 on 2017/01/06.
   */
@@ -14,20 +16,3 @@ object Lesson9 {
   }
 
 }
-
-trait Job {
-  val name: String
-  def getName() = {
-    "My job is " + name
-  }
-}
-
-trait Human1 {
-  val name = "飛行帽"
-  def sayName() = {
-    println("My name is " + name)
-  }
-}
-
-class Man extends Human1
-

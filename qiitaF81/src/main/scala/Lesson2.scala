@@ -1,3 +1,8 @@
+package main.scala
+
+/**
+  * Created by morikawakaori on 2017/01/08.
+  */
 object Lesson2 {
 
 	def main(args: Array[String]) {
